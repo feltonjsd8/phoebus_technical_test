@@ -6,7 +6,7 @@ My solution to the know your customer technical test.
 Although the instructions ask to maintain a list of strings ids I think it's better to map a bidirectional many to many relationship here of
 customers and accounts objects. The id can still be retrieved from the object if required.
 
-##Build JAR (Requires Maven installation)
+##Build JAR (Requires Maven installation) 
 mvn install
 
 ##REST URLS
